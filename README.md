@@ -19,7 +19,7 @@
 - MurderFast `?murderfast @user`
 - Auto Kill Reply `?autokill @user`
 - Mock Mode `?mockmode @user`
-- Auto DM Friends `?dm <msg>`
+- Mass DM Friends `?dm <msg>`
 - Purge Messages `?purge <amount>`
 - Custom Status `?streaming`, `?playing`, `?watching`, `?listening`
 - GC Tools `?gcfill` / `?gckill @user` / `.protection`
@@ -27,18 +27,18 @@
 
 ---
 
-## Setup:
+## 🚀 Setup:
 Put your token in muz.py (TOKEN = "your_user_token_here")
 Then open it in cmd python muz.py
 
-# Important:
+# ❗Important:
 Muz Client V1 is a USER TOKEN based selfbot.
 
 For educational purposes only.
 
 I'm not responsible for any misuse, bans, or terminations.
 
-Credits:
+🌟Credits:
 Developed by @mjqj
 
 Discord Server: discord.gg/says
