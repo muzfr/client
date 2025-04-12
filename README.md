@@ -28,6 +28,7 @@
 ---
 
 ## 🚀 Setup:
+pip install -r requirements.txt
 Put your token in muz.py (TOKEN = "your_user_token_here")
 Then open it in cmd python muz.py
 
