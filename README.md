@@ -22,7 +22,7 @@
 - Mass DM Friends `?dm <msg>`
 - Purge Messages `?purge <amount>`
 - Custom Status `?streaming`, `?playing`, `?watching`, `?listening`
-- GC Tools `?gcfill` / `?gckill @user` / `.protection`
+- GC Tools `?gcfill` / `?gckill @user` / `?protection`
 - Info Tools `?userinfo @user` / `?avatar @user` / `?say <msg>`
 
 ---
