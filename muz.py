@@ -87,7 +87,7 @@ async def on_ready():
 ║ {Fore.WHITE}PREFIX    {Fore.MAGENTA}| {Fore.WHITE}{PREFIX}                      {Fore.MAGENTA}║
 ║ {Fore.WHITE}SERVERS   {Fore.MAGENTA}| {Fore.WHITE}{guild_count}                      {Fore.MAGENTA}║
 ║ {Fore.WHITE}FRIENDS   {Fore.MAGENTA}| {Fore.WHITE}{friend_count}                      {Fore.MAGENTA}║
-║ {Fore.WHITE}CREATOR   {Fore.MAGENTA}| {Fore.WHITE}@mjqj                   {Fore.MAGENTA}║
+║ {Fore.WHITE}CREATOR   {Fore.MAGENTA}| {Fore.WHITE}@vebc                   {Fore.MAGENTA}║
 ║ {Fore.WHITE}SUPPORT   {Fore.MAGENTA}| {Fore.WHITE}discord.gg/says        {Fore.MAGENTA}║
 ╚════════════════════════════════════╝
 {Style.RESET_ALL}
@@ -274,7 +274,7 @@ f"{Fore.MAGENTA}"
         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡨⠾⠤⠤⣤⣤⡤⠶⠾⣟⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n"
         "⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠤⢴⠊⠁⠈⡿⢒⡋⣼⠳⡶⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n"
         "⠀⠀⠀⠀⠀⣀⠎⠉⠀⠀⠀⠀⠀⠈⢶⣰⠾⢿⣾⡈⡆⢹⠷⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n"
-        "⠀⠀⠀⠀⠀         @mjqj heh               ⠀⠀⠀⠀⠀\n"
+        "⠀⠀⠀⠀⠀         @vebc heh               ⠀⠀⠀⠀⠀\n"
         f"{Style.RESET_ALL}"
     )
 
