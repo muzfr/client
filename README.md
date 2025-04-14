@@ -40,7 +40,7 @@ For educational purposes only.
 I'm not responsible for any misuse, bans, or terminations.
 
 🌟Credits:
-Developed by @mjqj
+Developed by @vebc
 
 Discord Server: discord.gg/says
 
