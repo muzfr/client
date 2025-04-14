@@ -74,7 +74,7 @@ async def on_ready():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⡉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⢿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 {Style.RESET_ALL}
-            MUZ CLIENT v1 {Fore.WHITE}| {Fore.MAGENTA}@mjqj
+            MUZ CLIENT v1 {Fore.WHITE}| {Fore.MAGENTA}@vebc
 """
 
 
@@ -729,7 +729,7 @@ def loading_screen():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⣀⣀⡴⠤⠄⠴⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 {Style.RESET_ALL}
         MUZ CLIENT v1
-           by @mjqj"""
+           by @vebc"""
 
     print(ascii_art)
     print(Fore.MAGENTA + "\nLoading Modules", end="")
