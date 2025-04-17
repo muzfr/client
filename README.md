@@ -7,7 +7,7 @@
 
 ### The Official Muz Client V1 — Released to the public.
 
-> Developed & Owned by @separability | discord.gg/says
+> Developed & Owned by @overflying | discord.gg/says
 
 ---
 
