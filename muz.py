@@ -3,7 +3,7 @@
 # I hope you guys enjoy this release and join discord.gg/says for many more ^_^
 # A detailted tutorial for this selfbot and my other one(s) can be found on my youtube
 # https://www.youtube.com/@reapproved/videos
-# CONTACT INFORMATION (if you run into any issues etc): @overflying  on discord.
+# CONTACT INFORMATION (if you run into any issues etc): @fanciers  on discord.
 
 
 import discord
@@ -74,7 +74,7 @@ async def on_ready():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⡉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⢿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 {Style.RESET_ALL}
-            MUZ CLIENT v1 {Fore.WHITE}| {Fore.MAGENTA}@overflying
+            MUZ CLIENT v1 {Fore.WHITE}| {Fore.MAGENTA}@fanciers
 """
 
 
@@ -274,7 +274,7 @@ f"{Fore.MAGENTA}"
         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡨⠾⠤⠤⣤⣤⡤⠶⠾⣟⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n"
         "⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⠤⢴⠊⠁⠈⡿⢒⡋⣼⠳⡶⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n"
         "⠀⠀⠀⠀⠀⣀⠎⠉⠀⠀⠀⠀⠀⠈⢶⣰⠾⢿⣾⡈⡆⢹⠷⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n"
-        "⠀⠀⠀⠀⠀ @overflying  heh               ⠀⠀⠀⠀⠀\n"
+        "⠀⠀⠀⠀⠀ @fanciers  heh               ⠀⠀⠀⠀⠀\n"
         f"{Style.RESET_ALL}"
     )
 
