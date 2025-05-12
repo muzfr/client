@@ -3,7 +3,7 @@
 # I hope you guys enjoy this release and join discord.gg/says for many more ^_^
 # A detailted tutorial for this selfbot and my other one(s) can be found on my youtube
 # https://www.youtube.com/@reapproved/videos
-# CONTACT INFORMATION (if you run into any issues etc): @85pw on discord.
+# CONTACT INFORMATION (if you run into any issues etc): @mightyspie on discord.
 
 
 import discord
@@ -87,7 +87,7 @@ async def on_ready():
 ║ {Fore.WHITE}PREFIX    {Fore.MAGENTA}| {Fore.WHITE}{PREFIX}                      {Fore.MAGENTA}║
 ║ {Fore.WHITE}SERVERS   {Fore.MAGENTA}| {Fore.WHITE}{guild_count}                      {Fore.MAGENTA}║
 ║ {Fore.WHITE}FRIENDS   {Fore.MAGENTA}| {Fore.WHITE}{friend_count}                      {Fore.MAGENTA}║
-║ {Fore.WHITE}CREATOR   {Fore.MAGENTA}| {Fore.WHITE}@85pw                   {Fore.MAGENTA}║
+║ {Fore.WHITE}CREATOR   {Fore.MAGENTA}| {Fore.WHITE}@mightyspie                   {Fore.MAGENTA}║
 ║ {Fore.WHITE}SUPPORT   {Fore.MAGENTA}| {Fore.WHITE}hmu on discord       {Fore.MAGENTA}║
 ╚════════════════════════════════════╝
 {Style.RESET_ALL}
@@ -729,7 +729,7 @@ def loading_screen():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⣀⣀⡴⠤⠄⠴⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 {Style.RESET_ALL}
         MUZ CLIENT v1
-           by @85pw"""
+           by @mightyspie"""
 
     print(ascii_art)
     print(Fore.MAGENTA + "\nLoading Modules", end="")
