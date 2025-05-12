@@ -7,7 +7,7 @@
 
 ### The Official Muz Client V1 — Released to the public.
 
-> Developed & Owned by @fanciers | discord.gg/says
+> Developed & Owned by @85pw on discord | 
 
 ---
 
@@ -40,9 +40,9 @@ For educational purposes only.
 I'm not responsible for any misuse, bans, or terminations.
 
 🌟Credits:
-Developed by @fanciers
+Developed by @85pw on discord
 
-Discord Server: discord.gg/says
+
 
 Fully coded from scratch 
 
