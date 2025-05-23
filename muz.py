@@ -74,7 +74,7 @@ async def on_ready():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⡉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⢿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 {Style.RESET_ALL}
-            MUZ CLIENT v1 {Fore.WHITE}| {Fore.MAGENTA}@85pw
+            MUZ CLIENT v1 {Fore.WHITE}| {Fore.MAGENTA}@decmber31
 """
 
 
